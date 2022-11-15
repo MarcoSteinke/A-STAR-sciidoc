@@ -30,7 +30,7 @@ foobar
 
 ## Documentation:
 
-The documentation of this project will be released https:https://github.com/MarcoSteinke/A-STAR-sciidoc/blob/main/documentation[here]
+The documentation of this project will be released https://github.com/MarcoSteinke/A-STAR-sciidoc/blob/main/documentation[here]
 
 ---
 
