@@ -1,2 +1,5 @@
-# A*sciidoc
+image::https://github.com/MarcoSteinke/A-STAR-sciidoc/blob/main/logo/twitter_header_photo_2.png?raw=true[]
+
+---
+
 An AsciiDoc extension, which will simplify the way in which .adoc files can be created. It will offer variables, collections, improved syntax for tables, editable content (add rows/columns to tables, edit content of all elements).
