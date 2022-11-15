@@ -19,3 +19,5 @@ After working with Asciidoc for years and creating hundreds of Asciidoc files by
 ## License:
 
 The license can be found https://github.com/MarcoSteinke/A-STAR-sciidoc/blob/main/LICENSE[here]
+
+image::https://github.com/MarcoSteinke/A-STAR-sciidoc/blob/main/img/image.png?raw=true[]
