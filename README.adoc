@@ -8,6 +8,10 @@ An AsciiDoc extension, which will simplify the way in which .adoc files can be c
 
 After working with Asciidoc for years and creating hundreds of Asciidoc files by using different Asciidoc editors and also self-implemented tools, I want to share my improvements on Asciidoc and also an user-friendly, web-based editor, which enables additional features for Asciidoc. This project will run under the name `A*sciidoc`, since it improves the already given Asciidoc language.
 
+## Tools:
+
+A*sciidoc will consist of different products. There will be a simple transpiler, which translates A*sciidoc into classical Asciidoc, so it can be used in all environments, which do support Asciidoc. It will also offer features to directly render A*sciidoc into the browser by using a renderer based on Asciidoctor.
+
 ---
 
 ## Planned features:
