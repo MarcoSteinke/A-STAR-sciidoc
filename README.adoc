@@ -20,13 +20,17 @@ foo
 
 bar
 
-### Code-Editor
+### Code-Editor:
 
 baz
 
-### Adoc Editor
+### Adoc Editor:
 
 foobar
+
+## Documentation:
+
+The documentation of this project will be released https:https://github.com/MarcoSteinke/A-STAR-sciidoc/blob/main/documentation[here]
 
 ---
 
