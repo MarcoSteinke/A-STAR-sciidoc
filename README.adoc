@@ -40,6 +40,10 @@ The documentation of this project will be released https://github.com/MarcoStein
 - better syntax for tables
 - editable content
 
+## Contribution:
+
+TODO: add guidelines on contribution
+
 ## License:
 
 The license can be found https://github.com/MarcoSteinke/A-STAR-sciidoc/blob/main/LICENSE[here]
