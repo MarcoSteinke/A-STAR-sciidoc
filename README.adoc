@@ -12,6 +12,22 @@ After working with Asciidoc for years and creating hundreds of Asciidoc files by
 
 A*sciidoc will consist of different products. There will be a simple transpiler, which translates A*sciidoc into classical Asciidoc, so it can be used in all environments, which do support Asciidoc. It will also offer features to directly render A*sciidoc into the browser by using a renderer based on Asciidoctor.
 
+### A*sciidoc Transpiler:
+
+foo
+
+### Web Renderer:
+
+bar
+
+### Code-Editor
+
+baz
+
+### Adoc Editor
+
+foobar
+
 ---
 
 ## Planned features:
