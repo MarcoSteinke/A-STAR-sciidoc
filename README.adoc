@@ -4,6 +4,18 @@ image::https://github.com/MarcoSteinke/A-STAR-sciidoc/blob/main/logo/twitter_hea
 
 An AsciiDoc extension, which will simplify the way in which .adoc files can be created. It will offer variables, collections, improved syntax for tables, editable content (add rows/columns to tables, edit content of all elements).
 
+## Introduction:
+
+After working with Asciidoc for years and creating hundreds of Asciidoc files by using different Asciidoc editors and also self-implemented tools, I want to share my improvements on Asciidoc and also an user-friendly, web-based editor, which enables additional features for Asciidoc. This project will run under the name `A*sciidoc`, since it improves the already given Asciidoc language.
+
+---
+
+## Planned features:
+- variables
+- collections
+- better syntax for tables
+- editable content
+
 ## License:
 
 The license can be found https://github.com/MarcoSteinke/A-STAR-sciidoc/blob/main/LICENSE[here]
