@@ -3,3 +3,7 @@ image::https://github.com/MarcoSteinke/A-STAR-sciidoc/blob/main/logo/twitter_hea
 ---
 
 An AsciiDoc extension, which will simplify the way in which .adoc files can be created. It will offer variables, collections, improved syntax for tables, editable content (add rows/columns to tables, edit content of all elements).
+
+## License:
+
+The license can be found https://github.com/MarcoSteinke/A-STAR-sciidoc/blob/main/LICENSE[here]
